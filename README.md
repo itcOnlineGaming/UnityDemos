@@ -1,6 +1,7 @@
 # UnityDemos
 
 The structure of this project is as follows
+```
 Assets/
 │
 ├── Demos/
@@ -32,3 +33,4 @@ Assets/
 │
 ├── Plugins/
 └── ThirdParty/
+```
